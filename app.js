@@ -9,4 +9,3 @@ const logaDiferente = texto => console.log(texto)
 
 
 mostrar('Olá! :)')
-mostrar('321')
